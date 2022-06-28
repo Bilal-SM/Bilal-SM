@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bilal-SM
+- 👋 Hi, I’m Bilal
 - 🌱 A passionate self-taught full stack software engineer. I’m happy to learn... happy to help! 
 
 <!---

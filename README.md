@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bilal-SM
-- 🌱 I’m currently learning ...
+- 🌱 A passionate self-taught full stack software engineer. I’m happy to learn... happy to help! 
 
 <!---
 Bilal-SM/Bilal-SM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
